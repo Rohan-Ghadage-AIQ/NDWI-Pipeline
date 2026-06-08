@@ -1,0 +1,12 @@
+# Sentinel-2 NDWI Pipeline — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+numpy
+pystac
+rasterio
+rioxarray
+stackstac
+rio-stac
+xarray
+shapely
+dask[array]
