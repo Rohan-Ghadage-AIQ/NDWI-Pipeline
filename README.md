@@ -88,7 +88,7 @@ The pipeline follows a strict **two-step architecture**, each independently benc
 
 ```powershell
 # 1. Clone the repository and navigate to the directory
-git clone https://github.com/yourusername/NDWI-Pipeline.git
+git clone https://github.com/Rohan-Ghadage-AIQ/NDWI-Pipeline.git
 cd NDWI-Pipeline
 
 # 2. Create a virtual environment
